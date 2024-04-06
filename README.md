@@ -1,5 +1,8 @@
 # Weather-App
 new repository
+Name-Kishor Kumar Mandal
+Roll no- 196
+Sec-C
 **Project Title: Weather-App**
 
 **Description:**
@@ -19,15 +22,3 @@ WeatherNow is a comprehensive weather application designed to provide users with
 
 6. **Weather Widgets:** WeatherNow offers customizable widgets that can be placed on the user's home screen, providing quick access to weather information without having to open the app.
 
-7. **Weather History:** WeatherNow keeps track of past weather data, allowing users to review historical weather conditions for reference or analysis.
-
-8. **Accessibility:** WeatherNow is designed to be accessible to all users, with features such as voice command integration and compatibility with screen readers for visually impaired users.
-
-**Target Audience:**
-WeatherNow caters to a diverse audience, including travelers, outdoor enthusiasts, commuters, event planners, and anyone who relies on accurate weather information for their daily activities.
-
-**Platform:**
-WeatherNow is available for both Android and iOS devices, ensuring compatibility with a wide range of smartphones and tablets.
-
-**Mission Statement:**
-At WeatherNow, our mission is to empower users with the weather information they need to make informed decisions and stay safe in any weather condition. We strive to deliver a user-friendly experience that exceeds expectations and helps users navigate the elements with confidence.
