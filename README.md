@@ -1,6 +1,6 @@
 # Weather-App
 new repository
-**Project Title: WeatherNow**
+**Project Title: Weather-App**
 
 **Description:**
 WeatherNow is a comprehensive weather application designed to provide users with accurate and up-to-date weather forecasts and information. With an intuitive user interface and a range of features, WeatherNow aims to be the go-to app for users to plan their activities, whether it's a weekend getaway or daily commute.
