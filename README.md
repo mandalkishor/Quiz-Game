@@ -1,24 +1,18 @@
-# Weather-App
+# Quiz-Game
 
 Name-Kishor Kumar Mandal
 Roll no- 196
 Sec-C
-**Project Title: Weather-App**
+**Project Title: Quiz-Game **
+Description:
+Embark on a thrilling journey through the world of programming with Quiz-Game, the ultimate quiz game for coding enthusiasts! Test your knowledge, improve your skills, and compete with friends as you navigate through challenging levels of coding questions and puzzles.
 
-**Description:**
-WeatherNow is a comprehensive weather application designed to provide users with accurate and up-to-date weather forecasts and information. With an intuitive user interface and a range of features, WeatherNow aims to be the go-to app for users to plan their activities, whether it's a weekend getaway or daily commute.
+Key Features:
 
-**Key Features:**
+1.Multiple Programming Languages: CodeQuest supports a variety of popular programming languages such as Python, Java, JavaScript, C++, and more. Choose your preferred language and showcase your expertise.
+2.Diverse Question Categories: From fundamental concepts like data structures and algorithms to advanced topics like machine learning and web development, CodeQuest covers a wide range of programming areas, ensuring there's something for everyone.
+3.Interactive Challenges: Engage in interactive coding challenges where you'll write and execute code within the game environment. Debug code snippets, fill in missing lines, and solve logic puzzles to progress.
+4.Leaderboards and Achievements: Compete against other players worldwide and climb the global leaderboards. Unlock achievements for completing milestones and mastering specific programming concepts.
+5.Customizable Experience: Tailor your CodeQuest experience with adjustable difficulty levels, timed challenges for adrenaline-pumping sessions, and the option to create custom quizzes based on your interests.
 
-1. **Real-time Weather Updates:** WeatherNow fetches real-time weather data from reliable sources to ensure users have the most accurate information at their fingertips.
-
-2. **Forecasting:** Users can access hourly, daily, and weekly weather forecasts, allowing them to plan their activities with confidence.
-
-3. **Location-based Weather:** By utilizing GPS technology, WeatherNow automatically detects the user's location and provides local weather information. Users can also manually search for weather forecasts in other locations.
-
-4. **Interactive Maps:** WeatherNow includes interactive maps that display various weather parameters such as temperature, precipitation, wind speed, and more. Users can zoom in/out and pan across the map to explore weather conditions in different areas.
-
-5. **Customizable Alerts:** Users can set up customizable weather alerts for specific locations and weather conditions, ensuring they stay informed about any significant changes that may affect their plans.
-
-6. **Weather Widgets:** WeatherNow offers customizable widgets that can be placed on the user's home screen, providing quick access to weather information without having to open the app.
 
